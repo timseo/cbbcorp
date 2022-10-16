@@ -6151,6 +6151,7 @@ h4 a:hover{
 
 .service-style-four .tab-btns li .single-btn-box h5{
   display: block;
+  color: #fff;
   font-size: 18px;
   line-height: 26px;
   font-weight: 700;
@@ -6159,7 +6160,7 @@ h4 a:hover{
 
 .service-style-four .tab-btns li .single-btn-box:hover h5,
 .service-style-four .tab-btns li.active-btn .single-btn-box h5{
-  color: #fff;
+  color: #729DB5;
 }
 
 .service-style-four .tab-btns li .single-btn-box:before{
@@ -6205,11 +6206,11 @@ h4 a:hover{
   transition: all 500ms ease;
 }
 
-.service-style-four .tab-btns li .single-btn-box:hover:after,
+/* .service-style-four .tab-btns li .single-btn-box:hover:after,
 .service-style-four .tab-btns li.active-btn .single-btn-box:after{
   bottom: -7px;
   opacity: 1;
-}
+} */
 
 .content_block_9 .content-box{
   position: relative;
@@ -6370,11 +6371,11 @@ h4 a:hover{
   margin-right: 50px;
 }
 
-.image_block_7 .image-box img{
+.image_block_7 .image-box .image-1 img{
   border-radius: 50px;
 }
 
-.image_block_7 .image-box .image{
+.image_block_7 .image-box .image .image-1{
   border-radius: 50px;
 }
 
@@ -6382,9 +6383,10 @@ h4 a:hover{
   position: absolute;
   right: 0px;
   bottom: 0px;
-  background: #fff;
+  /* background: #fff; */
   padding: 10px;
-  box-shadow: 0 20px 50px #dfe3e3;
+  /* box-shadow: 0 20px 50px #dfe3e3; */
+  width: 75%;
 }
 
 .content_block_6 .content-box .text{

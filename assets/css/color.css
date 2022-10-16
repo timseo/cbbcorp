@@ -364,14 +364,14 @@ h4 a:hover{
 	color: #22b6af;
 }
 
-.service-style-four .tab-btns li .single-btn-box:before{
+/* .service-style-four .tab-btns li .single-btn-box:before{
 	background: #22b6af;
-}
+} */
 
-.service-style-four .tab-btns li .single-btn-box:hover:after,
+/* .service-style-four .tab-btns li .single-btn-box:hover:after,
 .service-style-four .tab-btns li.active-btn .single-btn-box:after{
 	background: #22b6af;
-}
+} */
 
 .project-block-one .inner-box .content-box .view-btn a{
 	color: #22b6af;
