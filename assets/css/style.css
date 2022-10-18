@@ -10064,3 +10064,93 @@ h4 a:hover{
     padding-bottom: 0 !important;
 }
 }
+
+.page-title{
+  padding: 100px 0px 60px 0px !important;
+  background-color: #E0E0E0;
+}
+.page-title::before{
+  background-color: transparent;
+}
+.page-title .title h1{
+  color: #005065;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+@media only screen and (max-width: 767px){
+  .page-title{
+    padding: 60px 0px 20px 0px !important;
+  }
+  .page-title .title h1{
+  font-size: 30px;
+  }
+}
+.blog-page-section{
+  background-color: #E0E0E0;
+  padding: 40px 0 350px;
+}
+.blog-page-section .inner-box{
+  padding-left: 36%;
+}
+.blog-page-section .inner-box .image-box{
+  width: 33%;
+  left: 20px;
+  top: 20px;
+  height: calc(100% - 40px);
+}
+.blog-page-section .inner-box .image-box img{
+  object-fit: cover;
+  height: 100%;
+}
+.blog-page-section .inner-box .content-box {
+  padding: 20px 20px;
+}
+.blog-page-section .inner-box .content-box h4 {
+  margin-bottom: 12px;
+  font-size: 15px !important;
+  text-transform: uppercase;
+  line-height: 1.2;
+}
+.news-block-two .inner-box .content-box p{
+  font-size: 14px !important;
+  line-height: 1.2;
+}
+.news-block-two .inner-box .content-box .theme-btn-two{
+  min-width: 160px;
+  font-size: 14px;
+  padding: 5px 20px 3px;
+  border-radius: 0;
+  background: #CA973C;
+  font-weight: 600;
+  color: #fff !important;
+}
+@media only screen and (max-width: 991px){
+  .news-block-two .inner-box .image-box{
+    width: calc(100% - 40px) !important;
+  }
+}
+@media only screen and (min-width: 768px){
+  .blog-page-section .inner-box .content-box h4 {
+    height: 72px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 4;
+    -webkit-box-orient: vertical;
+  }
+  .news-block-two .inner-box .content-box p{
+    height: 152px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 9;
+    -webkit-box-orient: vertical;
+  }
+}
+@media only screen and (max-width: 767px){
+  .blog-page-section{
+    padding-bottom: 300px !important;
+    padding-top: 30px !important;
+  }
+}
