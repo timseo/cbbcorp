@@ -9432,3 +9432,7 @@ h4 a:hover {}
     display: none;
   }
 }
+
+.owl-dots-none .owl-nav{
+  display: none;
+}
