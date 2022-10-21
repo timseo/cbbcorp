@@ -9412,27 +9412,3 @@ h4 a:hover {}
   color: #142441;
   font-weight: 500;
 }
-
-/* custom styles for tabs */
-
-.service-style-four.sm-display-none{
-  display: none;
-}
-
-.service-style-four.md-display-none{
-  display: block;
-}
-
-
-@media screen and (min-width: 992px) {
-  .service-style-four.sm-display-none{
-    display: block;
-  }
-  .service-style-four.md-display-none{
-    display: none;
-  }
-}
-
-.owl-dots-none .owl-nav{
-  display: none;
-}
