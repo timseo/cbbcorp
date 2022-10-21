@@ -1,5 +1,5 @@
 .custom-nav-style {
-    padding: 70px 0;
+    padding: 35px 0;
     background-color: #164F63;
 }
 
@@ -132,9 +132,9 @@
 }
 
 .main-footer .footer-top .text a {
-    font-size: 25px;
+    font-size: 16px;
     color: #164F63;
-    line-height: 1;
+    line-height: 18px;
 }
 
 .main-footer .footer-top .links-list {
@@ -175,17 +175,19 @@
 }
 
 .main-footer .footer-top .disclaimer p {
-    font-size: 20px;
-    color: #164F63;
+  font-size: 14px;
+  color: #164F63;
+  line-height: 17px;
+  font-weight: 900;
 }
 
 .main-footer .footer-bottom {
     padding-top: 0;
-    padding-bottom: 150px;
+    padding-bottom: 25px;
 }
 
 .main-footer .footer-bottom p {
-    font-size: 28px;
+    font-size: 12px;
     color: #164F63;
 }
 
@@ -300,24 +302,24 @@
 
 .contact-section .content-box h3 {
     text-align: center;
-    font-size: 36px;
+    font-size: 30px;
     font-weight: 600;
     color: #164F63;
-    margin-bottom: 2px;
+    margin-bottom: 25px;
 }
 
 .contact-section .content-box p {
     text-align: center;
-    font-size: 20px;
+    font-size: 15px;
     margin-bottom: 30px;
     color: #164F63;
-    text-align: justify;
+    line-height: 18px;
 }
 
 .contact-section .content-box input {
     border-radius: 0 !important;
     border: 0 !important;
-    margin-bottom: 30px;
+    margin-bottom: 18x;
     line-height: 1;
     height: 40px !important;
     color: #164F63 !important;
@@ -337,11 +339,11 @@
 
 .contact-section .content-box button {
     min-width: 210px;
-    font-size: 27px;
+    font-size: 16px;
     padding: 14px 20px 11px;
     border-radius: 0;
     background: #164F63;
-    margin-top: -5px;
+    margin-top: 25px;
 }
 
 @media only screen and (max-width: 991px) {
@@ -385,7 +387,7 @@
 
 .chooseus-section .theme-btn-one {
     min-width: 250px;
-    font-size: 27px;
+    font-size: 16px;
     padding: 14px 20px 11px;
     border-radius: 0;
     background: #CA973C;
@@ -455,7 +457,7 @@
 }
 
 .service-style-four .content-box p {
-    line-height: 1.6 !important;
+    line-height: 18px !important;
     color: #fff;
     font-size: 18px;
     margin-bottom: 50px;
@@ -555,7 +557,7 @@
 
 .service-section {
     background-color: #E5E5E5;
-    padding-top: 150px;
+    padding-top: 65px;
     padding-left: 20px;
     padding-right: 20px;
     /* position: relative; */
@@ -590,7 +592,7 @@
 
 .service-section .theme-btn-one {
     min-width: 300px;
-    font-size: 17px;
+    font-size: 16px;
     padding: 14px 20px 11px;
     border-radius: 0;
     background: #CA973C;
@@ -646,13 +648,14 @@
 }
 
 .banner-section .content-box h2 {
-    font-size: 45px !important;
+    font-size: 35px !important;
     font-weight: 600 !important;
     line-height: 1.2 !important;
 }
 
 .banner-section .content-box p {
-    font-size: 26px !important;
+    font-size: 18px !important;
+    line-height: 22px !important;
 }
 
 .banner-section .content-box p small {
@@ -661,7 +664,7 @@
 
 .banner-section .banner-btn-two {
     min-width: 300px;
-    font-size: 17px;
+    font-size: 16px;
     padding: 14px 20px 11px;
     border-radius: 0;
     background: #CA973C;
@@ -845,7 +848,8 @@ margin-bottom: 20px !important;
 .manufacturing-section .sec-title:not(.centred) h2{
     color:#729CB4;
     text-transform: uppercase;
-    font-size: 32px;
+    font-size: 25px;
+    line-height: 28px;
 }
 .manufacturing-section .content-column .text p{
     color: #fff;
@@ -855,7 +859,7 @@ margin-bottom: 20px !important;
     max-width: 90%;
 }
 .manufacturing-section .text p{
-    font-size: 28px;
+    font-size: 16px;
     margin-bottom: 80px;
 }
 .manufacturing-section .content-column:nth-child(2) .text p{
@@ -897,7 +901,7 @@ margin-bottom: 20px !important;
 .why-us-services .tab-btns li .single-btn-box h5 {
     color: #fff ;
 }
-.why-us-services .tab-btns li .single-btn-box:hover h5, 
+.why-us-services .tab-btns li .single-btn-box:hover h5,
 .why-us-services .tab-btns li.active-btn .single-btn-box h5 {
     color: #164F63 ;
 }
@@ -959,20 +963,20 @@ margin-bottom: 20px !important;
 .quality-section .text_content_block{
     text-align: right;
     margin-top: 150px;
-    max-width: 90%;
+    max-width: 70%;
     margin-left: auto;
 }
 .quality-section .text_content_block h2{
-    font-size: 38px;
+    font-size: 35px;
     font-weight: 700;
     color: #164F63;
     text-transform: uppercase;
     margin-bottom: 30px;
 }
 .quality-section .text_content_block p{
-    font-size: 30px;
+    font-size: 18px;
     color: #000;
-    line-height: 1.4;
+    line-height: 24px;
 }
 
 @media only screen and (max-width: 991px) {
@@ -1117,13 +1121,13 @@ margin-bottom: 20px !important;
 }
 .products-banner .content h1{
     color: #fff;
-    font-size: 90px;
+    font-size: 50px;
     font-weight: 600;
     line-height: 1;
 }
 .products-banner .content h1 small{
     font-weight: 600;
-    font-size: 61px;
+    font-size: 35px;
 }
 
 @media only screen and (max-width: 991px) {
@@ -1147,26 +1151,28 @@ margin-bottom: 20px !important;
 
 
 
-.nature-section{
+.nature-section {
     padding: 100px 0 150px;
     background-color: #E5E5E5;
     position: relative;
+    margin: 0 auto;
 }
-.nature-section .top-desc h2{
+.nature-section .top-desc h2 {
+    max-width: 1000px;
     font-size: 35px;
     font-weight: 700;
     color: #164F63;
     text-transform: uppercase;
     margin-bottom: 40px;
 }
-.nature-section .top-desc p{
-    font-size: 33px;
+.nature-section .top-desc p {
+    font-size: 16px;
     color: #000;
-    line-height: 1.4;
+    line-height: 22px;
     margin-bottom: 100px;
 }
 
-.nature-section .chemical{
+.nature-section .chemical {
     display: flex;
     text-align: center;
     flex-flow: wrap;
@@ -1195,7 +1201,7 @@ margin-bottom: 20px !important;
 
 .nature-section .theme-btn-one {
     width: 280px;
-    font-size: 27px;
+    font-size: 17px;
     padding: 14px 20px 11px;
     border-radius: 0;
     background: #CA973C;
@@ -1315,10 +1321,11 @@ margin-bottom: 20px !important;
     border-radius: 40px;
 }
 .product-service .content-column h3{
-    font-size: 30px;
+    font-size: 25px;
+    line-height: 28px;
 }
 .product-service .content-column p{
-    font-size: 26px;
+    font-size: 16px;
 }
 .product-service .content-column img{
     width: 90px;
@@ -1380,7 +1387,7 @@ margin-bottom: 20px !important;
     .product-service .single-btn-box .icon-box{
         margin: 0;
     }
-    
+
 }
 
 
@@ -1389,12 +1396,12 @@ margin-bottom: 20px !important;
 .service-style-four.sm-display-none{
     display: none;
   }
-  
+
   .service-style-four.md-display-none{
     display: block;
   }
-  
-  
+
+
   @media screen and (min-width: 992px) {
     .service-style-four.sm-display-none{
       display: block;
@@ -1403,7 +1410,7 @@ margin-bottom: 20px !important;
       display: none;
     }
   }
-  
+
   .owl-dots-none .owl-nav{
     display: none;
   }
@@ -1421,4 +1428,9 @@ margin-bottom: 20px !important;
 #eapps-age-verification-9843a404-de3e-4d16-ab38-b76ba4311191 > div > div > div > div.jsx-1339171777.eapp-age-verification-item-content > div:nth-child(5) > a{
     display: none !important;
 }
-
+.logo {
+    text-align: center;
+}
+.logo img {
+    width: 50%;
+}
