@@ -1282,7 +1282,6 @@ margin-bottom: 20px !important;
     }
 }
 
-
 .product-service{
     padding: 200px 0 450px;
     position: relative;
@@ -1312,6 +1311,11 @@ margin-bottom: 20px !important;
 }
 .product-service .tab-btn.active-btn{
     transform: scale(1.2);
+    transition: all 900ms ease;
+    -moz-transition: all 900ms ease;
+    -webkit-transition: all 900ms ease;
+    -ms-transition: all 900ms ease;
+    -o-transition: all 900ms ease;
 }
 .product-service .content-column{
     background-color: #729DB5;
