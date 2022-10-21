@@ -1429,8 +1429,161 @@ margin-bottom: 20px !important;
     background-color: #E0E0E0;
 }
 
-#eapps-age-verification-9843a404-de3e-4d16-ab38-b76ba4311191 > div > div > div > div.jsx-1339171777.eapp-age-verification-item-content > div:nth-child(5) > a{
-    display: none !important;
+/* Age verification gate */
+
+.age-verification-popup-container{
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    display: none;
+    -webkit-justify-content: center;
+    justify-content: center;
+    -webkit-align-items: center;
+    align-items: center;
+    background-image: url("../images/cbb-age-gate-bg.jpg");
+    background-position: center;
+    background-size: cover;
+    z-index: 2147483638;
+}
+.age-verification-popup-show {
+    display: flex;
+}
+
+.age-verification-popup-container::after {
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    content: '';
+    display: block;
+    position: absolute;
+    background-color: transparent;
+    z-index: 1;
+}
+
+.age-verification-popup-container::after {
+    background-color: rgba(0, 0, 0, 0.56);
+}
+
+.age-varification-page-popup-inner{
+    max-width: 920px;
+    border-radius: 10px;
+    position: relative;
+    box-sizing: border-box;
+    z-index: 2;
+    min-height: 400px;
+    display: -webkit-flex;
+    display: flex;
+    margin: 0 20px;
+}
+
+
+.age-verification-item-container{
+    display: -webkit-flex;
+    display: flex;
+    -webkit-align-items: center;
+    align-items: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+}
+
+.age-verification-item-content{
+    -webkit-align-items: center;
+    -webkit-flex-direction: column;
+    -webkit-flex-shrink: 0;
+    -webkit-justify-content: center;
+    align-items: center;
+    background-color: rgba(255, 255, 255, 0);
+    box-sizing: border-box;
+    display: -webkit-flex;
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 0;
+    height: 100%;
+    justify-content: center;
+    max-width: 460px;
+    padding: 40px 20px;
+    width: 100%;
+}
+
+.age-verification-item-logo{
+    margin-bottom: 30px;
+}
+
+.age-verification-item-message{
+    font-size: 25px;
+    font-style: normal;
+    font-weight: bold;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    line-height: 1.15;
+    width: 100%;
+}
+
+.age-verification-item-caption{
+    font-size: 16px;
+    font-style: normal;
+    font-weight: normal;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    line-height: 1.25;
+    margin-top: 16px;
+    width: 100%;
+}
+
+.age-verification-item-allow-container{
+    display: -webkit-flex;
+    display: flex;
+    margin-top: 32px;
+    width: 100%;
+    -webkit-flex-shrink: 0;
+    flex-shrink: 0;
+}
+
+.age-verification-item-allow-form{
+    width: 100%;
+}
+
+.age-verification-item-allow-buttons-container{
+    display: -webkit-flex;
+    display: flex;
+    margin: -10px;
+}
+
+.age-verification-item-allow-buttons-button {
+    position: relative;
+    width: 50%;
+    margin: 10px;
+    padding: 12px;
+    outline: none;
+    background-color: transparent;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 20px;
+    text-align: center;
+    color: #fff;
+    border: none;
+    top: 0;
+    transition: 0.3s ease top;
+}
+
+.age-verification-item-allow-buttons-yes {
+    background-color: rgb(255, 255, 255);
+    color: rgb(29, 33, 41);
+    font-size: 15px;
+}
+
+.age-verification-item-allow-buttons-no {
+    border-color: rgba(255, 255, 255, 0.4);
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+    border: 1px solid;
 }
 .logo {
     text-align: center;
