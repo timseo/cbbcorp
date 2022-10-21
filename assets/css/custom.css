@@ -1591,3 +1591,13 @@ margin-bottom: 20px !important;
 .logo img {
     width: 50%;
 }
+
+/* FOOTER */
+.footer-column{
+    align-self: flex-start;
+}
+
+.credit-cart-container{
+    width: 50%;
+    margin: 0 auto;
+}
