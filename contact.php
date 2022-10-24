@@ -13,23 +13,11 @@
 
         <!-- content -->
 
-        <!-- Page Title -->
-        <section class="page-title centred" style="">
-            <div class="auto-container">
-                <div class="content-box">
-                    <div class="title">
-                        <h1>CONTACT US</h1>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- End Page Title -->
-
         <!-- google-map-section -->
         <section class="google-map-section" style="background-color: #E0E0E0;">
             <div class="map-inner">
                 <div class="map-container">
-                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d188432.71530880212!2d-119.51144572364964!3d45.851047337802456!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54a2b9026e29d2d7%3A0x82ea06f10bd63cbb!2sHermiston%2C%20OR%2C%20USA!5e0!3m2!1sen!2sco!4v1666649584491!5m2!1sen!2sco" width="1920" height="750" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d188432.71530880212!2d-119.51144572364964!3d45.851047337802456!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54a2b9026e29d2d7%3A0x82ea06f10bd63cbb!2sHermiston%2C%20OR%2C%20USA!5e0!3m2!1sen!2sco!4v1666649584491!5m2!1sen!2sco" width="1920" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                 </div>
             </div>
             <div class="info-section">
@@ -38,17 +26,17 @@
                         <div class="single-info-box">
                             <div class="icon-box"><i class="icon-23"></i></div>
                             <h4>Office Location</h4>
-                            <p>31 park street, 5th Avenue, Dhanmondy, Dhaka.</p>
+                            <p>2250 S Highway 395, Hermiston OR 97838</p>
                         </div>
                         <div class="single-info-box">
                             <div class="icon-box"><i class="icon-59"></i></div>
                             <h4>Phone Number</h4>
-                            <p><a href="tel:316668880001">+31 666 888 0001</a><br /><a href="tel:316668880023">+31 666 888 0023</a></p>
+                            <p><a href="tel:5413039257">(541) 303-9257</a></p>
                         </div>
                         <div class="single-info-box">
                             <div class="icon-box"><i class="icon-60"></i></div>
                             <h4>Email Address</h4>
-                            <p><a href="mailto:info@example.com">info@example.com</a><br /><a href="mailto:info@example.com">info@example.com</a></p>
+                            <p><a href="mailto:sales@cbbio.us">sales@cbbio.us</a><br /><a href="mailto:support@cbbio.us">support@cbbio.us</a></p>
                         </div>
                     </div>
                 </div>
@@ -61,8 +49,8 @@
         <section class="contact-style-two sec-pad" style="background-color: #E0E0E0;">
             <div class="auto-container">
                 <div class="sec-title centred">
-                    <h6>Research Topic</h6>
-                    <h2>Have Any Questins Contact With Us</h2>
+                    <h6>Columbia Basin Bioscience</h6>
+                    <h2>Contact Us</h2>
                 </div>
                 <div class="form-inner">
                     <form method="post" action="sendemail.php" id="contact-form" class="default-form">
