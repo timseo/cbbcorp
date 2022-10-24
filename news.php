@@ -36,7 +36,7 @@
                                 </figure>
                                 <div class="content-box">
                                     <h4>
-                                        <a href="/">Oregon-Based Columbia Basin Bioscience Awarded ASTM’s
+                                        <a href="./oregon-based-columbia-news.php">Oregon-Based Columbia Basin Bioscience Awarded ASTM’s
                                             Global Cannabis Certification for Hemp and Cannabis
                                             Operators</a>
                                     </h4>
@@ -53,7 +53,7 @@
                                         input from state Attorneys General and law enforcement.
                                     </p>
                                     <div class="btn-box">
-                                        <a href="/" class="theme-btn-two">READ MORE</a>
+                                        <a href="./oregon-based-columbia-news.php" class="theme-btn-two">READ MORE</a>
                                     </div>
                                 </div>
                             </div>
@@ -67,7 +67,7 @@
                                 </figure>
                                 <div class="content-box">
                                     <h4>
-                                        <a href="/">Ryan Campbell<br />
+                                        <a href="./ryan-campbell-and-all-things-hemp.php">Ryan Campbell<br />
                                             and All Things Hemp</a>
                                     </h4>
                                     <ul class="post-info clearfix">
@@ -82,7 +82,7 @@
                                         year, Ryan served as operations director, sales…
                                     </p>
                                     <div class="btn-box">
-                                        <a href="/" class="theme-btn-two">READ MORE</a>
+                                        <a href="./ryan-campbell-and-all-things-hemp.php" class="theme-btn-two">READ MORE</a>
                                     </div>
                                 </div>
                             </div>
@@ -96,7 +96,7 @@
                                 </figure>
                                 <div class="content-box">
                                     <h4>
-                                        <a href="/">Columbia Basin Bioscience<br />
+                                        <a href="./columbia-basin-bioscience-earns-gmp-certification.php">Columbia Basin Bioscience<br />
                                             earns GMP Certification</a>
                                     </h4>
                                     <ul class="post-info clearfix">
@@ -113,7 +113,7 @@
                                         certification is…
                                     </p>
                                     <div class="btn-box">
-                                        <a href="/" class="theme-btn-two">READ MORE</a>
+                                        <a href="./columbia-basin-bioscience-earns-gmp-certification.php" class="theme-btn-two">READ MORE</a>
                                     </div>
                                 </div>
                             </div>
@@ -127,7 +127,7 @@
                                 </figure>
                                 <div class="content-box">
                                     <h4>
-                                        <a href="/">Columbia Basin Bioscience Makes Significant Investment
+                                        <a href="./investment-cbd-quality.php">Columbia Basin Bioscience Makes Significant Investment
                                             In CBD Quality, Anticipating Industry Regulation and
                                             Scrutiny</a>
                                     </h4>
@@ -142,7 +142,7 @@
                                         producers and products.
                                     </p>
                                     <div class="btn-box">
-                                        <a href="/" class="theme-btn-two">READ MORE</a>
+                                        <a href="./investment-cbd-quality.php" class="theme-btn-two">READ MORE</a>
                                     </div>
                                 </div>
                             </div>
@@ -156,7 +156,7 @@
                                 </figure>
                                 <div class="content-box">
                                     <h4>
-                                        <a href="/">Columbia Basin Bioscience Opens Industry’s Largest
+                                        <a href="./largest-vertical-production-facility.php">Columbia Basin Bioscience Opens Industry’s Largest
                                             Vertically Integrated, Single-Site CBD Production
                                             Facility</a>
                                     </h4>
@@ -171,7 +171,7 @@
                                         unprecedented scale.
                                     </p>
                                     <div class="btn-box">
-                                        <a href="/" class="theme-btn-two">READ MORE</a>
+                                        <a href="./largest-vertical-production-facility.php" class="theme-btn-two">READ MORE</a>
                                     </div>
                                 </div>
                             </div>
@@ -185,7 +185,7 @@
                                 </figure>
                                 <div class="content-box">
                                     <h4>
-                                        <a href="/">Privately Funded CBB Invests $134 Million To Build
+                                        <a href="./invests-vertically-integrated.php">Privately Funded CBB Invests $134 Million To Build
                                             Vertically Integrated CBD Wholesale Business</a>
                                     </h4>
                                     <ul class="post-info clearfix">
@@ -201,7 +201,7 @@
                                         commoditizing market.
                                     </p>
                                     <div class="btn-box">
-                                        <a href="/" class="theme-btn-two">READ MORE</a>
+                                        <a href="./invests-vertically-integrated.php" class="theme-btn-two">READ MORE</a>
                                     </div>
                                 </div>
                             </div>

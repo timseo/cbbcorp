@@ -1606,3 +1606,8 @@ margin-bottom: 20px !important;
 .google-map-section .info-section .info-inner {
     background: #164F63;
 }
+
+/* Blog details */
+.custom-blog-details .news-block-three .inner-box .lower-content .inner {
+    padding-left: 0;
+}
