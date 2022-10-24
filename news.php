@@ -36,7 +36,7 @@
                                 </figure>
                                 <div class="content-box">
                                     <h4>
-                                        <a href="blog-details.html">Oregon-Based Columbia Basin Bioscience Awarded ASTM’s
+                                        <a href="/">Oregon-Based Columbia Basin Bioscience Awarded ASTM’s
                                             Global Cannabis Certification for Hemp and Cannabis
                                             Operators</a>
                                     </h4>
@@ -53,7 +53,7 @@
                                         input from state Attorneys General and law enforcement.
                                     </p>
                                     <div class="btn-box">
-                                        <a href="blog-details.html" class="theme-btn-two">READ MORE</a>
+                                        <a href="/" class="theme-btn-two">READ MORE</a>
                                     </div>
                                 </div>
                             </div>
@@ -67,7 +67,7 @@
                                 </figure>
                                 <div class="content-box">
                                     <h4>
-                                        <a href="blog-details.html">Ryan Campbell<br />
+                                        <a href="/">Ryan Campbell<br />
                                             and All Things Hemp</a>
                                     </h4>
                                     <ul class="post-info clearfix">
@@ -82,7 +82,7 @@
                                         year, Ryan served as operations director, sales…
                                     </p>
                                     <div class="btn-box">
-                                        <a href="blog-details.html" class="theme-btn-two">READ MORE</a>
+                                        <a href="/" class="theme-btn-two">READ MORE</a>
                                     </div>
                                 </div>
                             </div>
@@ -96,7 +96,7 @@
                                 </figure>
                                 <div class="content-box">
                                     <h4>
-                                        <a href="blog-details.html">Columbia Basin Bioscience<br />
+                                        <a href="/">Columbia Basin Bioscience<br />
                                             earns GMP Certification</a>
                                     </h4>
                                     <ul class="post-info clearfix">
@@ -113,7 +113,7 @@
                                         certification is…
                                     </p>
                                     <div class="btn-box">
-                                        <a href="blog-details.html" class="theme-btn-two">READ MORE</a>
+                                        <a href="/" class="theme-btn-two">READ MORE</a>
                                     </div>
                                 </div>
                             </div>
@@ -127,7 +127,7 @@
                                 </figure>
                                 <div class="content-box">
                                     <h4>
-                                        <a href="blog-details.html">Columbia Basin Bioscience Makes Significant Investment
+                                        <a href="/">Columbia Basin Bioscience Makes Significant Investment
                                             In CBD Quality, Anticipating Industry Regulation and
                                             Scrutiny</a>
                                     </h4>
@@ -142,7 +142,7 @@
                                         producers and products.
                                     </p>
                                     <div class="btn-box">
-                                        <a href="blog-details.html" class="theme-btn-two">READ MORE</a>
+                                        <a href="/" class="theme-btn-two">READ MORE</a>
                                     </div>
                                 </div>
                             </div>
@@ -156,7 +156,7 @@
                                 </figure>
                                 <div class="content-box">
                                     <h4>
-                                        <a href="blog-details.html">Columbia Basin Bioscience Opens Industry’s Largest
+                                        <a href="/">Columbia Basin Bioscience Opens Industry’s Largest
                                             Vertically Integrated, Single-Site CBD Production
                                             Facility</a>
                                     </h4>
@@ -171,7 +171,7 @@
                                         unprecedented scale.
                                     </p>
                                     <div class="btn-box">
-                                        <a href="blog-details.html" class="theme-btn-two">READ MORE</a>
+                                        <a href="/" class="theme-btn-two">READ MORE</a>
                                     </div>
                                 </div>
                             </div>
@@ -185,7 +185,7 @@
                                 </figure>
                                 <div class="content-box">
                                     <h4>
-                                        <a href="blog-details.html">Privately Funded CBB Invests $134 Million To Build
+                                        <a href="/">Privately Funded CBB Invests $134 Million To Build
                                             Vertically Integrated CBD Wholesale Business</a>
                                     </h4>
                                     <ul class="post-info clearfix">
@@ -201,7 +201,7 @@
                                         commoditizing market.
                                     </p>
                                     <div class="btn-box">
-                                        <a href="blog-details.html" class="theme-btn-two">READ MORE</a>
+                                        <a href="/" class="theme-btn-two">READ MORE</a>
                                     </div>
                                 </div>
                             </div>
@@ -232,7 +232,7 @@
                                     Stay up to date on all the latest<br />
                                     updates and news from CBB
                                 </p>
-                                <form action="contact.html" method="post">
+                                <form action="contact.php" method="post">
                                     <div class="row clearfix">
                                         <div class="col-sm-12 form-group">
                                             <input type="email" name="email" placeholder="Contact Email" required="" />

@@ -1,5 +1,5 @@
 <!-- service-style-four -->
-<section class="service-style-four sec-pad sm-display-none" style="background-color: <?php echo $backgroundColor ?>">
+<section class="service-style-four sec-pad sm-display-none <?php echo $customClass?>" style="background-color: <?php echo $backgroundColor ?>">
     <div class="pattern-layer">
         <!-- <div class="pattern-1" style="background-image: url(assets/images/shape/shape-45.png);"></div>
                 <div class="pattern-2" style="background-image: url(assets/images/shape/shape-46.png);"></div> -->
@@ -309,7 +309,7 @@
 <!-- service-style-four end -->
 
 <!-- service-style-four -->
-<section class="service-style-four sec-pad md-display-none" style="background-color: <?php echo $backgroundColor ?>">
+<section class="service-style-four sec-pad md-display-none <?php echo $customClass?>" style="background-color: <?php echo $backgroundColor ?>">
     <div class="auto-container">
         <div class="tabs-box">
             <div class="single-item-carousel owl-carousel owl-theme owl-dots-none">

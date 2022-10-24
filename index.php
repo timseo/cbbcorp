@@ -40,7 +40,7 @@
                   traceability.
                 </p>
                 <div class="btn-box">
-                  <a href="research.html" class="banner-btn-two">LEARN MORE</a>
+                  <a href="/" class="banner-btn-two">LEARN MORE</a>
                 </div>
               </div>
             </div>
@@ -85,7 +85,7 @@
               </a>
             </div>
             <div class="col-sm-12 service-block centred">
-              <a href="index.html" class="theme-btn-one">ALL PRODUCTS</a>
+              <a href="/" class="theme-btn-one">ALL PRODUCTS</a>
             </div>
           </div>
         </div>
@@ -144,7 +144,7 @@
                       Equipment Institute (SEI), an affiliate of ASTM
                       International, in partnership with The GMP Collective....
                     </p>
-                    <a href="index.html" class="theme-btn-one">ALL NEWS</a>
+                    <a href="/" class="theme-btn-one">ALL NEWS</a>
                   </div>
                 </div>
               </div>

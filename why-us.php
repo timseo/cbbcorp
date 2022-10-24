@@ -84,6 +84,7 @@
         <!-- manufacturing-section end -->
 
         <?php
+            $customClass = 'why-us-services';
             $backgroundColor = '#7b9cb3';
             include './partials/about.php'
         ?>
