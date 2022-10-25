@@ -1,19 +1,17 @@
 <?php
 
 // Define some constants
-define( "RECIPIENT_NAME", "Camilo Jimenez" );
-define( "RECIPIENT_EMAIL", "jucajigue@gmail.com" );
-
+define( "RECIPIENT_NAME", "John Doe" );
+define( "RECIPIENT_EMAIL", "youremail@mail.com" );
 
 
 // Read the form values
 $success = false;
-$userName = isset( $_POST['username'] ) ? preg_replace( "/[^\s\S\.\-\_\@a-zA-Z0-9]/", "", $_POST['username'] ) : "User on page";
+$userName = isset( $_POST['username'] ) ? preg_replace( "/[^\s\S\.\-\_\@a-zA-Z0-9]/", "", $_POST['username'] ) : "";
 $senderEmail = isset( $_POST['email'] ) ? preg_replace( "/[^\.\-\_\@a-zA-Z0-9]/", "", $_POST['email'] ) : "";
 $userPhone = isset( $_POST['phone'] ) ? preg_replace( "/[^\s\S\.\-\_\@a-zA-Z0-9]/", "", $_POST['phone'] ) : "";
-$userSubject = isset( $_POST['subject'] ) ? preg_replace( "/[^\s\S\.\-\_\@a-zA-Z0-9]/", "", $_POST['subject'] ) : "Keep In Touch Form";
-$message = isset( $_POST['message'] ) ? preg_replace( "/(From:|To:|BCC:|CC:|Subject:|Content-Type:)/", "", $_POST['message'] ) : "Hi, look at this ";
-
+$userSubject = isset( $_POST['subject'] ) ? preg_replace( "/[^\s\S\.\-\_\@a-zA-Z0-9]/", "", $_POST['subject'] ) : "";
+$message = isset( $_POST['message'] ) ? preg_replace( "/(From:|To:|BCC:|CC:|Subject:|Content-Type:)/", "", $_POST['message'] ) : "";
 
 // If all values exist, send the email
 if ( $userName && $senderEmail && $userPhone && $userSubject && $message) {
@@ -23,10 +21,12 @@ if ( $userName && $senderEmail && $userPhone && $userSubject && $message) {
   $success = mail( $recipient, $headers, $msgBody );
 
   //Set Location After Successsfull Submission
-  header('Location: contact.php?message=Successfull');
-}else{
+  header('Location: contact.html?message=Successfull');
+}
+
+else{
 	//Set Location After Unsuccesssfull Submission
-  	header('Location: contact.php?message=Failed');	
+  	header('Location: contact.html?message=Failed');	
 }
 
 ?>

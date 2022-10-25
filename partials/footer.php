@@ -38,7 +38,7 @@
                             <div class="credit-cart-container">
                                 <img src="assets/images/cbb-cc.svg" alt="cbb credit cards accepted" />
                             </div>
-                            <ul class="social-box">
+                            <!-- <ul class="social-box">
                                 <li class="youtube">
                                     <a href="/" class="fab fa-youtube"></a>
                                 </li>
@@ -48,7 +48,7 @@
                                 <li class="instagram">
                                     <a href="/" class="fab fa-instagram"></a>
                                 </li>
-                            </ul>
+                            </ul> -->
                         </div>
                     </div>
                 </div>

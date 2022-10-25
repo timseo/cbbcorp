@@ -1,21 +1,3 @@
-<!-- preloader -->
-<div class="loader-wrap">
-    <div class="preloader">
-        <div class="preloader-close">Close Preloader</div>
-        <div id="handle-preloader" class="handle-preloader">
-            <div class="animation-preloader">
-                <div class="spinner"></div>
-                <div class="txt-loading">
-                    <span data-text-preloader="c" class="letters-loading"> c </span>
-                    <span data-text-preloader="b" class="letters-loading"> b </span>
-                    <span data-text-preloader="b" class="letters-loading"> b </span>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- preloader end -->
-
 <!-- main header -->
 <header class="main-header style-one">
     <?php 
@@ -50,8 +32,8 @@
                                 </figure>
                                 <ul class="navigation clearfix">
                                     <li <?php echo $basename === "products" ? 'class="current"' : ''?> ><a href="products.php">PRODUCTS</a></li>
-                                    <li <?php echo $basename === "contact" ? 'class="current"' : ''?> ><a href="contact.php">CONTACT</a></li>
-                                    <li><a href="/">SHOP PAGE</a></li>
+                                    <li <?php echo $basename === "faq" ? 'class="current"' : ''?> ><a href="faq.php">FAQ</a></li>
+                                    <li><a href="./contact.php">CONTACT</a></li>
                                 </ul>
                             </div>
                         </div>

@@ -8,6 +8,7 @@
     <div class="boxed_wrapper">
       
       <?php include './partials/ageGateVerification.php' ?>
+      <?php include './partials/preloader.php' ?>
       <?php include './partials/header.php' ?>
 
       <!-- banner-section -->
@@ -40,7 +41,7 @@
                   traceability.
                 </p>
                 <div class="btn-box">
-                  <a href="/" class="banner-btn-two">LEARN MORE</a>
+                  <a href="./why-us.php" class="banner-btn-two">LEARN MORE</a>
                 </div>
               </div>
             </div>
@@ -65,27 +66,27 @@
           </div>
           <div class="row">
             <div class="col-lg-3 col-md-6 col-sm-12 service-block">
-              <a href="">
+              <a href="./products.php">
                 <img src="./assets/images/cbb-powder-fine-1.png" alt="" />
               </a>
             </div>
             <div class="col-lg-3 col-md-6 col-sm-12 service-block">
-              <a href="">
+              <a href="./products.php">
                 <img src="./assets/images/cbb-powder-coarse-2.png" alt="" />
               </a>
             </div>
             <div class="col-lg-3 col-md-6 col-sm-12 service-block">
-              <a href="">
+              <a href="./products.php">
                 <img src="./assets/images/cbb-water-soluble-3.png" alt="" />
               </a>
             </div>
             <div class="col-lg-3 col-md-6 col-sm-12 service-block">
-              <a href="">
+              <a href="./products.php">
                 <img src="./assets/images/cbb-oil-soluble-4.png" alt="" />
               </a>
             </div>
             <div class="col-sm-12 service-block centred">
-              <a href="/" class="theme-btn-one">ALL PRODUCTS</a>
+              <a href="./products.php" class="theme-btn-one">ALL PRODUCTS</a>
             </div>
           </div>
         </div>
@@ -144,7 +145,7 @@
                       Equipment Institute (SEI), an affiliate of ASTM
                       International, in partnership with The GMP Collective....
                     </p>
-                    <a href="/" class="theme-btn-one">ALL NEWS</a>
+                    <a href="./news.php" class="theme-btn-one">ALL NEWS</a>
                   </div>
                 </div>
               </div>
@@ -167,7 +168,7 @@
                     Stay up to date on all the latest<br />
                     updates and news from CBB
                   </p>
-                  <form action="contact.html" method="post">
+                  <form action="sendemail.php" method="post">
                     <div class="row clearfix">
                       <div class="col-sm-12 form-group">
                         <input

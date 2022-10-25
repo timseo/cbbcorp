@@ -97,7 +97,7 @@
             <p>MAGMA - CUSTOM</p>
           </div>
         </div>
-        <a href="products.html" class="theme-btn-one">SHOW NOW</a>
+        <!-- <a href="products.html" class="theme-btn-one">SHOW NOW</a> -->
       </div>
       <img src="assets/images/cbb-product-texture-green.svg" alt="" class="shape" />
     </section>
