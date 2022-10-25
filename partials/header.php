@@ -11,7 +11,7 @@
                     <!--Mobile Navigation Toggler-->
                     <div class="mobile-nav-topbar">
                         <figure class="logo">
-                            <a href="index.html"><img src="assets/images/logo.svg" alt="" /></a>
+                            <a href="index.php"><img src="assets/images/logo.svg" alt="" /></a>
                         </figure>
                         <div class="mobile-nav-toggler">
                             <i class="icon-bar"></i>
@@ -71,14 +71,14 @@
             <!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header-->
         </div>
         <div class="contact-info">
-            <h4>Contact Info</h4>
+            <h4>Columbia Basin Bioscience</h4>
             <ul>
-                <li>Chicago 12, Melborne City, USA</li>
-                <li><a href="tel:+8801682648101">+88 01682648101</a></li>
-                <li><a href="mailto:info@example.com">info@example.com</a></li>
+                <li>2250 S Highway 395, Hermiston OR 97838</li>
+                <li><a href="tel:5413039257">(541) 303-9257</a></li>
+                <li><a href="mailto:sales@cbbio.us">sales@cbbio.us</a></li>
             </ul>
         </div>
-        <div class="social-links">
+        <!-- <div class="social-links">
             <ul class="clearfix">
                 <li>
                     <a href="index.html"><span class="fab fa-twitter"></span></a>
@@ -96,7 +96,7 @@
                     <a href="index.html"><span class="fab fa-youtube"></span></a>
                 </li>
             </ul>
-        </div>
+        </div> -->
     </nav>
 </div>
 <!-- End Mobile Menu -->
