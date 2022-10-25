@@ -196,18 +196,18 @@
                 <div class="content_block_9">
                   <div class="content-box">
                     <h3>
-                      CBd/cbg Isolate <br />
-                      98+% pure powder
+                      CBD/CBG Isolate <br />
+                      98%+ pure powder
                     </h3>
                     <p>
                       Harvested, dried and extracted from industrial hemp
                       grown on our 2,000+ acre farm, our CBD/CBG isolate is
                       made with the highest level of quality and consistency.
-                      Cryo-ethanol extracted and THC free, it’s the ideal way
+                      Cryo-Ethanol extracted and THC free, it’s the ideal way
                       to add this cannabinoid to any product. Our isolate is
-                      99+% pure. <br /><br />
+                      99%+ pure. <br /><br />
                       Available in sizes from:<br />
-                      1kg - 1000+kg
+                      1kg - 1000kg +
                     </p>
                     <img src="assets/images/cbb-sand-with-text.svg" alt="" />
                   </div>
@@ -219,18 +219,18 @@
                 <div class="content_block_9">
                   <div class="content-box">
                     <h3>
-                      CBd/cbg Isolate 2<br />
-                      98+% pure powder
+                      CBD/CBG Isolate 2<br />
+                      98%+ pure powder
                     </h3>
                     <p>
                       Harvested, dried and extracted from industrial hemp
                       grown on our 2,000+ acre farm, our CBD/CBG isolate is
                       made with the highest level of quality and consistency.
-                      Cryo-ethanol extracted and THC free, it’s the ideal way
+                      Cryo-Ethanol extracted and THC free, it’s the ideal way
                       to add this cannabinoid to any product. Our isolate is
-                      99+% pure. <br /><br />
+                      99%+ pure. <br /><br />
                       Available in sizes from:<br />
-                      1kg - 1000+kg
+                      1kg - 1000kg +
                     </p>
                     <img src="assets/images/cbb-sand-with-text.svg" alt="" />
                   </div>
@@ -242,18 +242,18 @@
                 <div class="content_block_9">
                   <div class="content-box">
                     <h3>
-                      CBd/cbg Isolate 3<br />
-                      98+% pure powder
+                      CBD/CBG Isolate 3<br />
+                      98%+ pure powder
                     </h3>
                     <p>
                       Harvested, dried and extracted from industrial hemp
                       grown on our 2,000+ acre farm, our CBD/CBG isolate is
                       made with the highest level of quality and consistency.
-                      Cryo-ethanol extracted and THC free, it’s the ideal way
+                      Cryo-Ethanol extracted and THC free, it’s the ideal way
                       to add this cannabinoid to any product. Our isolate is
-                      99+% pure. <br /><br />
+                      99%+ pure. <br /><br />
                       Available in sizes from:<br />
-                      1kg - 1000+kg
+                      1kg - 1000kg +
                     </p>
                     <img src="assets/images/cbb-sand-with-text.svg" alt="" />
                   </div>
@@ -265,18 +265,18 @@
                 <div class="content_block_9">
                   <div class="content-box">
                     <h3>
-                      CBd/cbg Isolate 4<br />
-                      98+% pure powder
+                      CBD/CBG Isolate 4<br />
+                      98%+ pure powder
                     </h3>
                     <p>
                       Harvested, dried and extracted from industrial hemp
                       grown on our 2,000+ acre farm, our CBD/CBG isolate is
                       made with the highest level of quality and consistency.
-                      Cryo-ethanol extracted and THC free, it’s the ideal way
+                      Cryo-Ethanol extracted and THC free, it’s the ideal way
                       to add this cannabinoid to any product. Our isolate is
-                      99+% pure. <br /><br />
+                      99%+ pure. <br /><br />
                       Available in sizes from:<br />
-                      1kg - 1000+kg
+                      1kg - 1000kg +
                     </p>
                     <img src="assets/images/cbb-sand-with-text.svg" alt="" />
                   </div>
