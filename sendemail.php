@@ -1,8 +1,8 @@
 <?php
 
 // Define some constants
-define( "RECIPIENT_NAME", "Camilo Jimenez" );
-define( "RECIPIENT_EMAIL", "jucajigue@gmail.com" );
+define( "RECIPIENT_NAME", "Columbia Basin Bioscience" );
+define( "RECIPIENT_EMAIL", "sales@cbbio.us" );
 
 
 
