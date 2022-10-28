@@ -1191,7 +1191,7 @@ margin-bottom: 20px !important;
     flex-flow: wrap;
 }
 .nature-section .chemical .item{
-    width: calc(100% / 8);
+    width: calc(100% / 7);
 }
 .nature-section .chemical .item h6{
     font-size: 80%;
@@ -1199,18 +1199,21 @@ margin-bottom: 20px !important;
     color: #164F63;
     margin-bottom: 12%;
 }
-.nature-section .chemical .item p{
-    font-size: 78%;
+.nature-section .chemical .item p {
+    text-align: center;
+    font-size: 10px;
     font-weight: 900;
     color: #164F63;
     margin-top: 8%;
     line-height: 1.6;
+    padding-left: 5px;
+    text-transform: capitalize;
 }
-.nature-section .chemical .item:first-child p{
-    /* font-size: 53%; */
+/* .nature-section .chemical .item:first-child p{
+    font-size: 53%;
     text-align: left;
     padding-left: 7%;
-}
+} */
 
 .nature-section .theme-btn-one {
     width: 280px;
