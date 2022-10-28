@@ -68,7 +68,7 @@
             <div class="col-lg-3 col-md-6 col-sm-12 service-block">
               <a href="./products.php">
                 <img src="./assets/images/cbb-powder-fine-1.png" alt="cbd isolate fine powder" />
-                <h4>isolate</h4>
+                <h4>isolates</h4>
               </a>
             </div>
             <div class="col-lg-3 col-md-6 col-sm-12 service-block">

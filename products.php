@@ -69,24 +69,24 @@
             <p>
               CBD Water Soluble Powder<br />
               Broad Spectrum Water Soluble powder<br />
-              Coming Soon Q1 2023
+              <b>Coming Soon Q1 2023</b>
             </p>
           </div>
           <div class="item">
             <h6>ELIXIR</h6>
             <img src="assets/images/cbb-elixir.svg" alt="" />
             <p>
-              CBD Liquid Soluble Powder<br />
-              Broad Spectrum Liquid Soluble powder<br />
-              Coming Soon Q1 2023
+              CBD Water Soluble Powder<br />
+              Broad Spectrum Water Soluble powder<br />
+              <b>Coming Soon Q1 2023</b>
             </p>
           </div>
           <div class="item">
             <h6>LAVA</h6>
             <img src="assets/images/cbb-lava.svg" alt="" />
             <p>
-              Lava Gold<br />
-              Coming Soon Q2 2023
+              Lava GOLD<br />
+              <b>Coming Soon Q2 2023</b>
             </p>
           </div>
         </div>

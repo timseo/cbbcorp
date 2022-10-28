@@ -100,7 +100,7 @@ body {
 .auto-container {
   position: static;
   max-width: 1200px;
-  padding: 0px 15px;
+  padding: 0px 35px;
   margin: 0 auto;
 }
 
@@ -3277,7 +3277,7 @@ div#mCSB_1_container {
 
 .footer-top .links-widget .links-list li a {
   position: relative;
-  font-size: 16px;
+  font-size: 14px;
   display: inline-block;
 }
 
