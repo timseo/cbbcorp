@@ -36,7 +36,7 @@
                   WRITING THE FUTURE
                 </h2>
                 <p>
-                  500ml to 1000L Sizing makes no difference, we will supply the
+                  500g to 1000kgs  Sizing makes no difference, we will supply the
                   highest quality products with unwavering consistency
                   traceability.
                 </p>

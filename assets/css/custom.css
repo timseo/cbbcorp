@@ -74,7 +74,7 @@
 
 @media only screen and (max-width: 1200px) {
     .custom-nav-style {
-        padding: 30px 0;
+        padding: 18px 0;
     }
 
     .custom-nav-style .mobile-nav-topbar {
@@ -100,7 +100,7 @@
     .mobile-menu .nav-logo img {
         display: block;
         margin: auto;
-        width: 150px;
+        width: 100px;
     }
 }
 
