@@ -44,57 +44,50 @@
             <h6>ISLAND</h6>
             <img src="assets/images/cbb-island.svg" alt="" />
             <p>
-              ISLAND - CBD Isolate <br />
-              ISLAND 2.0 - CBD Isolate 2.0<br />
-              ISLAND CBG - CBG Isolate
+              CBD Isolate<br />
+              CBD Isolate 2.0<br />
+              CBG Isolate
             </p>
           </div>
           <div class="item">
             <h6>SAND</h6>
             <img src="assets/images/cbb-sand.svg" alt="" />
             <p>
-              SAND - FSP 1.0<br />
-              SAND - BSP 2.0
+              Broad Spectrum Powder
             </p>
           </div>
           <div class="item">
             <h6>CLOUD</h6>
             <img src="assets/images/cbb-cloud.svg" alt="" />
             <p>
-              CLOUD - FSP 3.0<br />
-              CLOUD - BSP 4.0
+              Full Spectrum Powder
             </p>
           </div>
           <div class="item">
             <h6>HAIL</h6>
             <img src="assets/images/cbb-hail.svg" alt="" />
             <p>
-              HAIL - H2Op CBD<br />
-              HAIL - H20w FSP
+              CBD Water Soluble Powder<br />
+              Broad Spectrum Water Soluble powder<br />
+              Coming Soon Q1 2023
             </p>
           </div>
           <div class="item">
             <h6>ELIXIR</h6>
             <img src="assets/images/cbb-elixir.svg" alt="" />
             <p>
-              ELIXIR - H2Ow CBD<br />
-              ELIXIR - H2Op BSP
+              CBD Liquid Soluble Powder<br />
+              Broad Spectrum Liquid Soluble powder<br />
+              Coming Soon Q1 2023
             </p>
-          </div>
-          <div class="item">
-            <h6>VOLCAN</h6>
-            <img src="assets/images/cbb-volcan.svg" alt="" />
-            <p>VOLCAN - OIL</p>
           </div>
           <div class="item">
             <h6>LAVA</h6>
             <img src="assets/images/cbb-lava.svg" alt="" />
-            <p>LAVA - OIL</p>
-          </div>
-          <div class="item">
-            <h6>MAGMA</h6>
-            <img src="assets/images/cbb-magma.svg" alt="" />
-            <p>MAGMA - CUSTOM</p>
+            <p>
+              Lava Gold<br />
+              Coming Soon Q2 2023
+            </p>
           </div>
         </div>
         <!-- <a href="products.html" class="theme-btn-one">SHOW NOW</a> -->
