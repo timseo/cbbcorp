@@ -474,6 +474,16 @@
     flex-flow: wrap;
     justify-content: center;
 }
+.service-block h4 {
+    font-size: 15px;
+    text-transform: uppercase;
+    text-align: center;
+    color: #154f63;
+    font-family: 'Prompt', sans-serif;
+    font-weight: 400;
+    padding-top: 7px;
+    padding-bottom: 0px;
+}
 
 @media only screen and (max-width: 1200px) {
     .service-style-four .image_block_6 {
@@ -488,6 +498,9 @@
 
     .service-style-four .image_block_6 .image-box {
         padding-left: 10%;
+    }
+    .service-block h4 {
+        padding-bottom: 25px;
     }
 }
 
