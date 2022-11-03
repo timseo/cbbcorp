@@ -36,7 +36,7 @@
                   WRITING THE FUTURE
                 </h2>
                 <p>
-                  500ml to 1000L Sizing makes no difference, we will supply the
+                  500g to 1000kgs  Sizing makes no difference, we will supply the
                   highest quality products with unwavering consistency
                   traceability.
                 </p>
@@ -67,22 +67,26 @@
           <div class="row">
             <div class="col-lg-3 col-md-6 col-sm-12 service-block">
               <a href="./products.php">
-                <img src="./assets/images/cbb-powder-fine-1.png" alt="" />
+                <img src="./assets/images/cbb-powder-fine-1.png" alt="cbd isolate fine powder" />
+                <h4>isolates</h4>
               </a>
             </div>
             <div class="col-lg-3 col-md-6 col-sm-12 service-block">
               <a href="./products.php">
-                <img src="./assets/images/cbb-powder-coarse-2.png" alt="" />
+                <img src="./assets/images/cbb-powder-coarse-2.png" alt="cbd full spectrun and broad spectrum" />
+                <h4>Spectrums</h4>
               </a>
             </div>
             <div class="col-lg-3 col-md-6 col-sm-12 service-block">
               <a href="./products.php">
-                <img src="./assets/images/cbb-water-soluble-3.png" alt="" />
+                <img src="./assets/images/cbb-water-soluble-3.png" alt="cbd water soluble" />
               </a>
+              <h4>solubles</h4>
             </div>
             <div class="col-lg-3 col-md-6 col-sm-12 service-block">
               <a href="./products.php">
-                <img src="./assets/images/cbb-oil-soluble-4.png" alt="" />
+                <img src="./assets/images/cbb-oil-soluble-4.png" alt="cbd oil based" />
+                <h4>t-free</h4>
               </a>
             </div>
             <div class="col-sm-12 service-block centred">

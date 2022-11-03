@@ -74,7 +74,7 @@
 
 @media only screen and (max-width: 1200px) {
     .custom-nav-style {
-        padding: 30px 0;
+        padding: 18px 0;
     }
 
     .custom-nav-style .mobile-nav-topbar {
@@ -100,7 +100,7 @@
     .mobile-menu .nav-logo img {
         display: block;
         margin: auto;
-        width: 150px;
+        width: 100px;
     }
 }
 
@@ -211,12 +211,15 @@
     }
 
     .main-footer .footer-top .text a {
-        font-size: 20px;
+        font-size: 16spx;
     }
 
     .main-footer .footer-top .links-list {
-        margin: 10px auto;
+        margin: 5px auto;
         max-width: 450px;
+    }
+    .main-footer .footer-top .links-list li {
+        margin-bottom: 0px;
     }
 
     .main-footer .footer-top .social-box {
@@ -228,9 +231,10 @@
     }
 
     .main-footer .footer-top .disclaimer p {
-        font-size: 16px;
+        font-size: 10px;
         max-width: 600px;
         margin: auto;
+        line-height: 12px;
     }
 
     .main-footer .footer-top .disclaimer p br {
@@ -238,7 +242,7 @@
     }
 
     .main-footer .footer-bottom p {
-        font-size: 20px;
+        font-size: 12px;
         padding: 0 50px;
     }
 }
@@ -359,7 +363,7 @@
 
     .contact-section .content-box button {
         min-width: 180px;
-        font-size: 22px;
+        font-size: 16px;
         padding: 10px 20px 8px;
     }
 }
@@ -382,7 +386,7 @@
     color: #fff;
     font-size: 16px;
     margin-bottom: 50px;
-    text-align: justify;
+    text-align: left;
 }
 
 .chooseus-section .theme-btn-one, .contact-style-two .theme-btn-one{
@@ -410,7 +414,7 @@
 @media only screen and (max-width: 991px) {
     .chooseus-section .theme-btn-one, .contact-style-two .theme-btn-one {
         min-width: 180px;
-        font-size: 22px;
+        font-size: 16px;
         padding: 10px 20px 8px;
     }
 
@@ -461,7 +465,7 @@
     color: #fff;
     font-size: 16px;
     margin-bottom: 50px;
-    text-align: justify;
+    text-align: left;
 }
 
 .service-style-four .tab-btn h5 {
@@ -473,6 +477,16 @@
     display: flex;
     flex-flow: wrap;
     justify-content: center;
+}
+.service-block h4 {
+    font-size: 15px;
+    text-transform: uppercase;
+    text-align: center;
+    color: #154f63;
+    font-family: 'Prompt', sans-serif;
+    font-weight: 400;
+    padding-top: 7px;
+    padding-bottom: 0px;
 }
 
 @media only screen and (max-width: 1200px) {
@@ -488,6 +502,9 @@
 
     .service-style-four .image_block_6 .image-box {
         padding-left: 10%;
+    }
+    .service-block h4 {
+        padding-bottom: 25px;
     }
 }
 
@@ -615,7 +632,7 @@
 @media only screen and (max-width: 991px) {
     .service-section .theme-btn-one {
         min-width: 220px;
-        font-size: 22px;
+        font-size: 16px;
         padding: 10px 20px 8px;
     }
 
@@ -648,7 +665,7 @@
 }
 
 .banner-section .content-box h2 {
-    font-size: 35px !important;
+    font-size: 25px !important;
     font-weight: 600 !important;
     line-height: 1.2 !important;
 }
@@ -684,17 +701,18 @@
 
     .banner-section .banner-btn-two {
         min-width: 220px;
-        font-size: 22px;
+        font-size: 16px;
         padding: 10px 20px 8px;
     }
 
     .banner-section .content-box h2 {
-        font-size: 35px !important;
+        font-size: 21px !important;
         max-width: 500px;
     }
 
     .banner-section .content-box p {
-        font-size: 20px !important;
+        font-size: 16px !important;
+        line-height: 18px;
     }
 
     .banner-section .content-box p small {
@@ -880,7 +898,8 @@ margin-bottom: 20px !important;
         display: none;
     }
     .manufacturing-section .content-column .text p{
-        font-size: 20px;
+        font-size: 16px;
+        line-height: 18px;
         margin-top: 0 !important;
         margin-bottom: 50px;
     }
@@ -1025,7 +1044,8 @@ margin-bottom: 20px !important;
         margin-bottom: 20px;
     }
     .quality-section .text_content_block p{
-        font-size: 20px;
+        font-size: 16px;
+        line-height: 18px;
     }
 }
 .banner-section .owl-nav button{
@@ -1178,7 +1198,7 @@ margin-bottom: 20px !important;
     flex-flow: wrap;
 }
 .nature-section .chemical .item{
-    width: calc(100% / 8);
+    width: calc(100% / 7);
 }
 .nature-section .chemical .item h6{
     font-size: 80%;
@@ -1186,18 +1206,21 @@ margin-bottom: 20px !important;
     color: #164F63;
     margin-bottom: 12%;
 }
-.nature-section .chemical .item p{
-    font-size: 78%;
-    font-weight: 900;
+.nature-section .chemical .item p {
+    text-align: center;
+    font-size: 10px;
+    font-weight: 500;
     color: #164F63;
     margin-top: 8%;
     line-height: 1.6;
+    padding-left: 5px;
+    text-transform: capitalize;
 }
-.nature-section .chemical .item:first-child p{
+/* .nature-section .chemical .item:first-child p{
     font-size: 53%;
     text-align: left;
     padding-left: 7%;
-}
+} */
 
 .nature-section .theme-btn-one {
     width: 280px;
@@ -1227,9 +1250,7 @@ margin-bottom: 20px !important;
     .nature-section .chemical .item p{
         font-size: 1.04vw;
     }
-    .nature-section .chemical .item:first-child p{
-        font-size: .7vw;
-    }
+
 }
 
 @media only screen and (max-width: 991px) {
@@ -1237,12 +1258,13 @@ margin-bottom: 20px !important;
         padding: 70px 0 100px;
     }
     .nature-section .top-desc h2{
-        font-size: 25px;
-        margin-bottom: 30px;
-        line-height: 1.4;
+        font-size: 20px;
+        margin-bottom: 20px;
+        line-height: 22px;
     }
     .nature-section .top-desc p{
-        font-size: 24px;
+        font-size: 16px;
+        line-height: 18px;;
         margin-bottom: 60px;
     }
     .nature-section .theme-btn-one {
@@ -1261,9 +1283,6 @@ margin-bottom: 20px !important;
     .nature-section .chemical .item p{
         font-size: 2.08vw;
     }
-    .nature-section .chemical .item:first-child p{
-        font-size: 1.35vw;
-    }
 }
 
 @media only screen and (max-width: 500px) {
@@ -1272,13 +1291,10 @@ margin-bottom: 20px !important;
         margin-bottom: 50px;
     }
     .nature-section .chemical .item h6{
-        font-size: 4.28vw;
+        font-size: 3.28vw;
     }
     .nature-section .chemical .item p{
-        font-size: 4.16vw;
-    }
-    .nature-section .chemical .item:first-child p{
-        font-size: 2.6vw;
+        font-size: 2.5vw;
     }
 }
 
@@ -1367,7 +1383,7 @@ margin-bottom: 20px !important;
         font-size: 25px;
     }
     .product-service .content-column p{
-        font-size: 20px;
+        font-size: 16px;
     }
     .product-service .content_block_9 .content-box{
         margin-bottom: 0 !important;
@@ -1600,6 +1616,7 @@ margin-bottom: 20px !important;
 .credit-cart-container{
     width: 50%;
     margin: 0 auto;
+    padding-top: 30px;
 }
 
 /* Contact Us page */
@@ -1610,4 +1627,9 @@ margin-bottom: 20px !important;
 /* Blog details */
 .custom-blog-details .news-block-three .inner-box .lower-content .inner {
     padding-left: 0;
+}
+
+/* Product page  */
+.nature-section .chemical {
+    justify-content: center;
 }

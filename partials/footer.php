@@ -13,10 +13,10 @@
                         <div class="text">
                             <ul class="info clearfix">
                                 <li>
-                                    <a href="mailto:info@example.com">info@cbbioscience.com</a>
+                                    <a href="mailto:support@cbbio.us">support@cbbio.us</a>
                                 </li>
                                 <li class="tel">
-                                    <a href="tel:541-224-6820">Tel. 541 - 224 - 6820</a>
+                                    <a href="tel:5413039257">(541) 303-9257</a>
                                 </li>
                             </ul>
                         </div>
