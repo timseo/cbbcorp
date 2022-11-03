@@ -8,7 +8,7 @@
     <div class="boxed_wrapper">
       
       <?php include './partials/ageGateVerification.php' ?>
-      <?php include './partials/preloader.php' ?>
+      <?php //include './partials/preloader.php' ?>
       <?php include './partials/header.php' ?>
 
       <!-- banner-section -->
