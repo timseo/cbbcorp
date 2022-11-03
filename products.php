@@ -76,8 +76,8 @@
             <h6>ELIXIR</h6>
             <img src="assets/images/cbb-elixir.svg" alt="" />
             <p>
-              CBD Water Soluble Powder<br />
-              Broad Spectrum Water Soluble powder<br />
+              CBD Water Soluble Liquid<br />
+              Broad Spectrum Water Soluble Liquid<br />
               <b>Coming Soon Q1 2023</b>
             </p>
           </div>
