@@ -1,14 +1,13 @@
 <?php
-// require 'vendor/autoload.php'; // If you're using Composer (recommended)
-// Comment out the above line if not using Composer
+require_once "./vendor/autoload.php";
 require("sendgrid-php/sendgrid-php.php");
-// If not using Composer, uncomment the above line and
-// download sendgrid-php.zip from the latest release here,
-// replacing <PATH TO> with the path to the sendgrid-php.php file,
-// which is included in the download:
-// https://github.com/sendgrid/sendgrid-php/releases
 
-define("SENDGRID_API_KEY", "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");
+use Dotenv\Dotenv;
+
+$dotenv = Dotenv::createImmutable(__DIR__);
+$dotenv->load();
+
+define("SENDGRID_API_KEY", $_ENV["SENDGRID_API_KEY"]);
 define("FROM_EMAIL", "sales@cbbio.us");
 define("FROM_NAME", "Sales Columbia Basin Bioscience");
 define("SUBJECT", "Inquiry CBB corporate site");
