@@ -188,21 +188,18 @@
               <div class="content-column">
                 <div class="content_block_9">
                   <div class="content-box">
+                    <h2>Power Isolates</h2>
+                    <br />
                     <h3>
                       CBD/CBG Isolate <br />
                       98%+ pure powder
                     </h3>
                     <p>
-                      Harvested, dried and extracted from industrial hemp
-                      grown on our 2,000+ acre farm, our CBD/CBG isolate is
-                      made with the highest level of quality and consistency.
-                      Cryo-Ethanol extracted and THC free, it’s the ideal way
-                      to add this cannabinoid to any product. Our isolate is
-                      99%+ pure. <br /><br />
+                      Our Columbia Basin Bioscience Powder Isolates are the most stable and pure in the industry. We use industry leading techniques to isolate and purify our Isolate Powder. Using proprietary processing techniques, we are able to make our products consistent in powder grain size and packed to be shelf stable. Since we control our process from farm to final product, we are able to ensure the best possible final product. <br /><br />
                       Available in sizes from:<br />
                       1kg - 1000kg +
                     </p>
-                    <img src="assets/images/cbb-sand-with-text.svg" alt="" />
+                    <!-- <img src="assets/images/cbb-sand-with-text.svg" alt="" /> -->
                   </div>
                 </div>
               </div>
@@ -211,21 +208,18 @@
               <div class="content-column">
                 <div class="content_block_9">
                   <div class="content-box">
+                    <h2>Powder Spectrums</h2>
+                    <br />
                     <h3>
                       CBD/CBG Isolate 2<br />
                       98%+ pure powder
                     </h3>
                     <p>
-                      Harvested, dried and extracted from industrial hemp
-                      grown on our 2,000+ acre farm, our CBD/CBG isolate is
-                      made with the highest level of quality and consistency.
-                      Cryo-Ethanol extracted and THC free, it’s the ideal way
-                      to add this cannabinoid to any product. Our isolate is
-                      99%+ pure. <br /><br />
+                      Some products require a full spectrum from the plant instead of an isolated ingredient. Our Columbia Basin Bioscience Powder Spectrums are produced under the strictest industry standards. Using proprietary processing techniques, we are able to make our products consistent in powder grain size and packed to be shelf stable. Since we control our process from farm to final product, we are able to ensure the best possible final product.<br /><br />
                       Available in sizes from:<br />
                       1kg - 1000kg +
                     </p>
-                    <img src="assets/images/cbb-sand-with-text.svg" alt="" />
+                    <!-- <img src="assets/images/cbb-sand-with-text.svg" alt="" /> -->
                   </div>
                 </div>
               </div>
@@ -234,7 +228,8 @@
               <div class="content-column">
                 <div class="content_block_9">
                   <div class="content-box">
-                    <h3>
+                    <h3>Coming Soon Q1 2023</h3>
+                    <!-- <h3>
                       CBD/CBG Isolate 3<br />
                       98%+ pure powder
                     </h3>
@@ -248,7 +243,7 @@
                       Available in sizes from:<br />
                       1kg - 1000kg +
                     </p>
-                    <img src="assets/images/cbb-sand-with-text.svg" alt="" />
+                    <img src="assets/images/cbb-sand-with-text.svg" alt="" /> -->
                   </div>
                 </div>
               </div>
@@ -257,7 +252,8 @@
               <div class="content-column">
                 <div class="content_block_9">
                   <div class="content-box">
-                    <h3>
+                  <h3>Coming Soon Q1 2023</h3>
+                    <!-- <h3>
                       CBD/CBG Isolate 4<br />
                       98%+ pure powder
                     </h3>
@@ -271,7 +267,7 @@
                       Available in sizes from:<br />
                       1kg - 1000kg +
                     </p>
-                    <img src="assets/images/cbb-sand-with-text.svg" alt="" />
+                    <img src="assets/images/cbb-sand-with-text.svg" alt="" /> -->
                   </div>
                 </div>
               </div>

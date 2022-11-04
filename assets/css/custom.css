@@ -460,6 +460,11 @@
     line-height: 1.4;
 }
 
+.service-style-four .content-box h2 {
+    color: #fff;
+    font-weight: 700;
+}
+
 .service-style-four .content-box p {
     line-height: 20px !important;
     color: #fff;
@@ -1339,6 +1344,7 @@ margin-bottom: 20px !important;
     max-width: 600px;
     margin: auto;
     border-radius: 40px;
+    min-height: 500px;
 }
 .product-service .content-column h3{
     font-size: 25px;
