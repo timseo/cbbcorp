@@ -288,9 +288,6 @@
                           broad spectrum
                         </a>
                       </li>
-                      <li>
-                        full spectrum - coming soon
-                      </li>
                     </ul>
                     <p class="cc-spec-title">
                       SDS Sheets <small>pdf downloads</small>

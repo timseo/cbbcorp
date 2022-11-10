@@ -1434,6 +1434,7 @@ margin-bottom: 20px !important;
 .cc-spec-files li {
     color: #fff;
     text-transform: uppercase;
+    line-height: 17px;
 }
 
 .cc-spec-files a {
