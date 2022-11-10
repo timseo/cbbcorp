@@ -97,6 +97,8 @@
 
     <!-- service-style-four -->
     <section class="service-style-four sec-pad product-service" style="background-color: #164f63; margin-top: 0">
+      <img src="assets/images/cbb-product-texture-2.svg" alt="" class="shape" />
+
       <div class="auto-container">
         <div class="tabs-box">
           <div class="tab-btn-box centred">
@@ -337,7 +339,7 @@
               <div class="content-column">
                 <div class="content_block_9">
                   <div class="content-box">
-                  <h3>Coming Soon Q1 2023</h3>
+                    <h3>Coming Soon Q1 2023</h3>
                     <!-- <h3>
                       CBD/CBG Isolate 4<br />
                       98%+ pure powder
@@ -360,7 +362,6 @@
           </div>
         </div>
       </div>
-      <img src="assets/images/cbb-product-texture-2.svg" alt="" class="shape" />
     </section>
     <!-- service-style-four end -->
 
