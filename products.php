@@ -246,6 +246,21 @@
                         </a>
                       </li>
                     </ul>
+                    <p class="cc-spec-title">
+                      COA Sheets <small>pdf downloads</small>
+                    </p>
+                    <ul class="cc-spec-files">
+                      <li>
+                        <a href="assets/images/specsheets/cbb-cbd-isolate-coa.pdf" target="_blank">
+                          cannabidiol CBD isolate
+                        </a>
+                      </li>
+                      <li>
+                        <a href="assets/images/specsheets/cbb-cbg-isolate-coa.pdf" target="_blank">
+                          cannabigerol CBG isolate
+                        </a>
+                      </li>
+                    </ul>
                     <!-- <img src="assets/images/cbb-sand-with-text.svg" alt="" /> -->
                   </div>
                 </div>
@@ -303,6 +318,16 @@
                       <li>
                         <a href="assets/images/specsheets/cbb-FINAL-High-Potency-Full-Spectrum-Powder-US-SDS-EN-190429.pdf" target="_blank">
                           full spectrum
+                        </a>
+                      </li>
+                    </ul>
+                    <p class="cc-spec-title">
+                      COA Sheets <small>pdf downloads</small>
+                    </p>
+                    <ul class="cc-spec-files">
+                      <li>
+                        <a href="assets/images/specsheets/cbb-cbd-isolate-20-coa.pdf" target="_blank">
+                          isolate 2.0
                         </a>
                       </li>
                     </ul>
