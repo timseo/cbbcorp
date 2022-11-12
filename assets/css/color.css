@@ -1,8 +1,8 @@
 /* template-color */
 
 .scroll-top{
-  border: 2px dashed #22b6af;
-  color: #22b6af;
+  border: 2px dashed #fff;
+  color: #fff;
 }
 
 .preloader-close{
@@ -32,7 +32,7 @@
 
 .main-menu .navigation > li.current > a,
 .main-menu .navigation > li:hover > a{
-  color: #22b6af;
+  color: #fff;
 }
 
 .main-header .search-btn button:hover{
