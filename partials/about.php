@@ -17,8 +17,8 @@
                             <div class="content_block_9">
                                 <div class="content-box">
                                     <h3>
-                                        GROWN HERE<br />
-                                        ONE SOURCE: OURS
+                                        grown here<br />
+                                        <span class="cc-italics">one source: ours</span>
                                     </h3>
                                     <p>
                                         Here at Columbia Basin Bioscience our single source

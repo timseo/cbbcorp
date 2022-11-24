@@ -97,6 +97,8 @@
 
     <!-- service-style-four -->
     <section class="service-style-four sec-pad product-service" style="background-color: #164f63; margin-top: 0">
+      <img src="assets/images/cbb-product-texture-2.svg" alt="" class="shape" />
+
       <div class="auto-container">
         <div class="tabs-box">
           <div class="tab-btn-box centred">
@@ -188,7 +190,7 @@
               <div class="content-column">
                 <div class="content_block_9">
                   <div class="content-box">
-                    <h2>Power Isolates</h2>
+                    <h2>Powder Isolates</h2>
                     <br />
                     <h3>
                       CBD/CBG Isolate <br />
@@ -199,6 +201,66 @@
                       Available in sizes from:<br />
                       1kg - 1000kg +
                     </p>
+                    <p class="cc-spec-title">
+                      Specification Sheets <small>pdf downloads</small>
+                    </p>
+                    <ul class="cc-spec-files">
+                      <li>
+                        <a href="assets/images/specsheets/cbb-cbd-isolate-20200602.pdf" target="_blank">
+                          cannabidiol CBD isolate
+                        </a>
+                      </li>
+                      <li>
+                        <a href="assets/images/specsheets/cbb-cbg-isolate-20200617.pdf" target="_blank">
+                          cannabigerol CBG isolate
+                        </a>
+                      </li>
+                    </ul>
+                    <p class="cc-spec-title">
+                      Sales Sheets <small>pdf downloads</small>
+                    </p>
+                    <ul class="cc-spec-files">
+                      <li>
+                        <a href="assets/images/specsheets/cbb-CBD-Isolate.pdf" target="_blank">
+                          cannabidiol CBD isolate
+                        </a>
+                      </li>
+                      <li>
+                        <a href="assets/images/specsheets/cbb-CBG-Isolate.pdf" target="_blank">
+                          cannabigerol CBG isolate
+                        </a>
+                      </li>
+                    </ul>
+                    <p class="cc-spec-title">
+                      SDS Sheets <small>pdf downloads</small>
+                    </p>
+                    <ul class="cc-spec-files">
+                      <li>
+                        <a href="assets/images/specsheets/cbb-FINAL-CBD-Isolate-US-SDS-EN-190429.pdf" target="_blank">
+                          cannabidiol CBD isolate
+                        </a>
+                      </li>
+                      <li>
+                        <a href="assets/images/specsheets/cbb-FINAL-CBG-Isolate-US-SDS-EN-190429.pdf" target="_blank">
+                          cannabigerol CBG isolate
+                        </a>
+                      </li>
+                    </ul>
+                    <p class="cc-spec-title">
+                      COA Sheets <small>pdf downloads</small>
+                    </p>
+                    <ul class="cc-spec-files">
+                      <li>
+                        <a href="assets/images/specsheets/cbb-cbd-isolate-coa.pdf" target="_blank">
+                          cannabidiol CBD isolate
+                        </a>
+                      </li>
+                      <li>
+                        <a href="assets/images/specsheets/cbb-cbg-isolate-coa.pdf" target="_blank">
+                          cannabigerol CBG isolate
+                        </a>
+                      </li>
+                    </ul>
                     <!-- <img src="assets/images/cbb-sand-with-text.svg" alt="" /> -->
                   </div>
                 </div>
@@ -219,6 +281,56 @@
                       Available in sizes from:<br />
                       1kg - 1000kg +
                     </p>
+                    <p class="cc-spec-title">
+                      Specification Sheets <small>pdf downloads</small>
+                    </p>
+                    <ul class="cc-spec-files">
+                      <li>
+                        <a href="assets/images/specsheets/cbb-broad-spectrum-20200602.pdf" target="_blank">
+                          broad spectrum
+                        </a>
+                      </li>
+                      <li>
+                        <a href="assets/images/specsheets/cbb-full-spectrum-20200602.pdf" target="_blank">
+                          full spectrum
+                        </a>
+                      </li>
+                    </ul>
+                    <p class="cc-spec-title">
+                      Sales Sheets <small>pdf downloads</small>
+                    </p>
+                    <ul class="cc-spec-files">
+                      <li>
+                        <a href="assets/images/specsheets/cbb-Broad-Spectrum-Powder.pdf" target="_blank">
+                          broad spectrum
+                        </a>
+                      </li>
+                    </ul>
+                    <p class="cc-spec-title">
+                      SDS Sheets <small>pdf downloads</small>
+                    </p>
+                    <ul class="cc-spec-files">
+                      <li>
+                        <a href="assets/images/specsheets/cbb-FINAL-Broad-Spectrum-Powder-US-SDS-EN-190429.pdf" target="_blank">
+                          broad spectrum
+                        </a>
+                      </li>
+                      <li>
+                        <a href="assets/images/specsheets/cbb-FINAL-High-Potency-Full-Spectrum-Powder-US-SDS-EN-190429.pdf" target="_blank">
+                          full spectrum
+                        </a>
+                      </li>
+                    </ul>
+                    <p class="cc-spec-title">
+                      COA Sheets <small>pdf downloads</small>
+                    </p>
+                    <ul class="cc-spec-files">
+                      <li>
+                        <a href="assets/images/specsheets/cbb-cbd-isolate-20-coa.pdf" target="_blank">
+                          isolate 2.0
+                        </a>
+                      </li>
+                    </ul>
                     <!-- <img src="assets/images/cbb-sand-with-text.svg" alt="" /> -->
                   </div>
                 </div>
@@ -252,7 +364,7 @@
               <div class="content-column">
                 <div class="content_block_9">
                   <div class="content-box">
-                  <h3>Coming Soon Q1 2023</h3>
+                    <h3>Coming Soon Q1 2023</h3>
                     <!-- <h3>
                       CBD/CBG Isolate 4<br />
                       98%+ pure powder
@@ -275,7 +387,6 @@
           </div>
         </div>
       </div>
-      <img src="assets/images/cbb-product-texture-2.svg" alt="" class="shape" />
     </section>
     <!-- service-style-four end -->
 
