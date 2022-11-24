@@ -176,6 +176,14 @@
                     <div class="row clearfix">
                       <div class="col-sm-12 form-group">
                         <input
+                          type="text"
+                          name="username"
+                          placeholder="Name"
+                          required=""
+                        />
+                      </div>
+                      <div class="col-sm-12 form-group">
+                        <input
                           type="email"
                           name="email"
                           placeholder="Contact Email"
